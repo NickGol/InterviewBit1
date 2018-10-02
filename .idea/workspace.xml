@@ -4,23 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="a3eb3e13-3fc8-461d-a1bd-9e0a5fd49322" name="Default" comment="new comment">
+    <list default="true" readonly="true" id="a3eb3e13-3fc8-461d-a1bd-9e0a5fd49322" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/InterviewBit.iml" afterPath="$PROJECT_DIR$/InterviewBit.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Comparators.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Comparators.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/KthRowofPascalsTriangle.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/KthRowofPascalsTriangle.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Lambda.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Lambda.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Lambda1.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Lambda1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Max_Distance.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Max_Distance.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/MaximumUnsortedSubarray.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/MaximumUnsortedSubarray.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/PascalTriangle.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/PascalTriangle.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Solution1.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Solution1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/SpiralOrderMatrixII.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/SpiralOrderMatrixII.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Stream_API.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Stream_API.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/TripletsWithSumBetweenGivenRange.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/TripletsWithSumBetweenGivenRange.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/Wave_Array.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/Wave_Array.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewBit/com/company1/Solution.class" afterPath="$PROJECT_DIR$/out/production/InterviewBit/com/company1/Solution.class" />
-      <change beforePath="$PROJECT_DIR$/src/NobleInteger.java" afterPath="$PROJECT_DIR$/src/NobleInteger.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +23,8 @@
       <file leaf-file-name="NobleInteger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NobleInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="292">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -499,6 +484,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535729010687</updated>
     </task>
+    <task id="LOCAL-00001" summary="new comment">
+      <created>1538476567833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538476567833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1064,8 +1057,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NobleInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        <state relative-caret-position="292">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
