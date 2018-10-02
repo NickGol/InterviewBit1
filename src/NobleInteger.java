@@ -14,7 +14,7 @@ public class NobleInteger {
             {
                 System.out.println(1);
                 System.out.println(i);
-                return 1;//qqqqqqqqqqqqqqqqqqqqqqqqwwwwwwwww
+                return 1;//qqqqqqqqqqqqqqqqqqqqqqqqwwwwwwwwweeeeeeeeeeeeeeeeeeeee
             }
         }
         System.out.println(-1);
