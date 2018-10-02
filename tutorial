@@ -1,0 +1,18 @@
+
+PPC-3170@PPC-3170-RE4AE MINGW64 ~
+$ git config --global user.name "NickGol"
+
+PPC-3170@PPC-3170-RE4AE MINGW64 ~
+$ git config --global user.name
+NickGol
+
+PPC-3170@PPC-3170-RE4AE MINGW64 ~
+$ git config --global user.email "golod_nick@mail.ru"
+
+PPC-3170@PPC-3170-RE4AE MINGW64 ~
+$ git config --global user.email
+golod_nick@mail.ru
+
+PPC-3170@PPC-3170-RE4AE MINGW64 ~
+$ git config --global user.name
+NickGol
